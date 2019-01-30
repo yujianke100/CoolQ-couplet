@@ -1,0 +1,5 @@
+2019-01-30 23:34:27 CQHandler.py[line:42] INFO __init__
+2019-01-30 23:34:55 CQHandler.py[line:57] INFO OnEvent_Enable
+2019-01-30 23:35:08 C:\Users\yujia\Desktop\酷Q Air\app\xyz.shinnshi.duilian\CQHandler.py[line:63] INFO OnEvent_PrivateMsg: subType=11, sendTime=440, fromQQ=734962820, msg=%对对联问天下头颅几许, font=162047296
+2019-01-30 23:35:20 C:\Users\yujia\Desktop\酷Q Air\app\xyz.shinnshi.duilian\CQHandler.py[line:60] INFO OnEvent_Disable
+2019-01-30 23:35:20 CQHandler.py[line:54] INFO __del__
